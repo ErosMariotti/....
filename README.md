@@ -6,7 +6,7 @@ Este proyecto es un ejemplo de cómo crear una página web usando HTML semántic
 
 ## Requisitos
 - Navegador web actualizado (Google Chrome, Firefox, etc.)
-- Editor de texto (Visual Studio Code, Sublime Text, etc.)
+- Editor de texto (Visual Studio Code)
 
 ## Ejecución
 1. Clona este repositorio: `[git clone https://github.com/usuario/mi-proyecto-html.git](https://github.com/ErosMariotti/Programaci-n-III.git)`
