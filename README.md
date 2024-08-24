@@ -9,7 +9,7 @@ Este proyecto es un ejemplo de cómo crear una página web usando HTML semántic
 - Editor de texto (Visual Studio Code, Sublime Text, etc.)
 
 ## Ejecución
-1. Clona este repositorio: `git clone https://github.com/usuario/mi-proyecto-html.git`
+1. Clona este repositorio: `[git clone https://github.com/usuario/mi-proyecto-html.git](https://github.com/ErosMariotti/Programaci-n-III.git)`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Autor
